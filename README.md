@@ -1,4 +1,4 @@
 # Quantum-Programming
 
-#Aim
+##Aim:
   Implement quantum algorithms, Develop quantum circuit simulators
