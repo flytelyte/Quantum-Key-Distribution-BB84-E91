@@ -21,16 +21,17 @@
           `cd path/to/your/dir`
       5. To activate the virtual environment, type
     
-          `source bin/activate`    
+          `source bin/activate`
+
+         you would see something like
+
+         `(.venv)usr@user ~`  on Mac
+
+         `(.venv)usr@user:~$` on Linux
   3. Clone the repository by
      
      `clone https://github.com/flytelyte/Quantum-Programming`
 
-     you would see something like
-
-     `(.venv)usr@user ~`  on Mac
-
-     `(.venv)usr@user:~$` on Linux
   5. Execute files. For example,
 
      `python bb84.py`
