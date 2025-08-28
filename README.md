@@ -5,7 +5,7 @@
   The QKD protocols are used to build quantum communication that is able to detect interference of third parties and/or noise.
   Also, the project contains tester files for each protocol.
 
-## !How to run!
+## ! How to run !
   1. Create a directory where you would like to clone this repository.
       1. It is recommended to make the directory into a virtual environment.      
       2. Open the terminal, and type
@@ -25,4 +25,7 @@
   3. Clone the repository by
      
      `clone https://github.com/flytelyte/Quantum-Programming`
-  5. Execute files.
+  5. Execute files. For example,
+
+     `python bb84.py`
+       
