@@ -9,7 +9,9 @@
   1. Create a directory that you would like to clone this repository.
       1. It is recommended to make the directory into a virtual environment.
       2. Open the terminal, and type
+         
          `python -m venv path/to/your/dir`
+          
       4. Then check the directory contains following,
          * bin
          * include
