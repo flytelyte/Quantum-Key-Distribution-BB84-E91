@@ -18,6 +18,7 @@
          * lib
          * pyvenv.cfg
       5. Go to the directory by
+     
           `cd path/to/your/dir`
       7. To activate the virtual environment, type
          `source bin/activate`    
