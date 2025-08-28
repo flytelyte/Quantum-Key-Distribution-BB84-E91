@@ -1,10 +1,8 @@
-# Quantum Key Distribution(Individual summer project 2025)
+# Quantum Key Distribution protocols(BB84 and E91) version 25.08
 
 ## Project Description:
+This project describes Quantum Key Distribution protocols (QKD protocols).
 
-This repo has two components, one is python scripts that contain minimum implementation of QKD protocols. Another is Jupyter NoteBook that contain same code as the python scripts and its mathematical explaination.
+The QKD protocols are used to build quantum communication that is able to detect interference of third parties and/or noise.
 
-The repo contains QKD protocols (<BB84>, <B92>, <E91>).
-The Jupyter notebook will explain mathematical details
-
-If you just want to deploy the protocols then should choose the python scripts only to clone. For mathematical depth, that would lead you to clone Jupyter NoteBook.
+Also, the project contains tester files for each protocol.
