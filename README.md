@@ -5,6 +5,16 @@
   The QKD protocols are used to build quantum communication that is able to detect interference of third parties and/or noise.
   Also, the project contains tester files for each protocol.
 
+## Note
+  This project is a prototype and is still under development. Some known issues include:
+  1. QBER logic issue in BB84
+  2. Privacy amplification in E91 should be implemented
+  3. Noise Model and its implementation for both protocols
+
+  While the project is licensed under MIT and open to use,
+  I am not currently accepting external contribution.
+  You are welcome to fork and build upon it, but pull requests may not be reviewed or merged at this time.
+
 ## ! How to run !
   1. Create a directory where you would like to clone this repository.
       1. It is recommended to make the directory into a virtual environment.      
