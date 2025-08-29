@@ -5,7 +5,7 @@
   The QKD protocols are used to build quantum communication that is able to detect interference of third parties and/or noise.
   Also, the project contains tester files for each protocol.
 
-  I used **Qiskit** for translating theory into code. Yet I have not implemented for physical quantum computer.
+  I used **Qiskit** for translating theory into code. Yet I have not implemented for executing physical quantum computer.
   Therefore the project completely executable on classical computer.
 
 ## Note
@@ -21,11 +21,11 @@
 ## ! How to run !
   1. Create a directory where you would like to clone this repository.
       1. It is recommended to make the directory into a virtual environment.      
-      2. Open the terminal, and type
+      2. Open the terminal, and make directory
 
           `mkdir path/to/your/.venv`
     
-          Then,
+          Then type
 
           `python -m venv path/to/your/.venv`      
       4. Then check the directory contains the following
