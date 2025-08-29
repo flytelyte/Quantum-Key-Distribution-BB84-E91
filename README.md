@@ -1,9 +1,12 @@
 # Quantum Key Distribution protocols(BB84 and E91) version 25.08
 
 ## Project Description:
-  This project describes Quantum Key Distribution protocols (QKD protocols).
+  This project describes **Quantum Key Distribution protocols** (QKD protocols).
   The QKD protocols are used to build quantum communication that is able to detect interference of third parties and/or noise.
   Also, the project contains tester files for each protocol.
+
+  I used **Qiskit** for translating theory into code. Yet I have not implemented for physical quantum computer.
+  Therefore the project completely executable on classical computer.
 
 ## Note
   This project is a prototype and is still under development. Some known issues include:
@@ -12,7 +15,7 @@
   3. Noise Model and its implementation for both protocols
 
   While the project is licensed under MIT and open to use,
-  I am not currently accepting external contribution.
+  I am **not currently accepting external contribution**.
   You are welcome to fork and build upon it, but pull requests may not be reviewed or merged at this time.
 
 ## ! How to run !
