@@ -14,7 +14,7 @@
   2. Privacy amplification in E91 should be implemented
   3. Noise Model and its implementation for both protocols
 
-  While the project is licensed under MIT and open to use,
+  While the project is licensed under MIT License and open to use,
   I am **not currently accepting external contribution**.
   You are welcome to fork and build upon it, but pull requests may not be reviewed or merged at this time.
 
