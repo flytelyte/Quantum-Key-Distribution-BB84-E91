@@ -48,8 +48,10 @@
   3. Clone the repository by
      
      `clone https://github.com/flytelyte/Quantum-Programming`
-
-  5. Execute files. For example,
+  4. Install dependencies by
+     
+     `pip install -r requirements.txt`
+  6. Execute files. For example,
 
      `python bb84.py`
        
