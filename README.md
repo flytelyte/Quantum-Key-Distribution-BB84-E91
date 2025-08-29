@@ -22,17 +22,21 @@
   1. Create a directory where you would like to clone this repository.
       1. It is recommended to make the directory into a virtual environment.      
       2. Open the terminal, and type
-           
-          `python -m venv path/to/your/dir`      
-      3. Then check the directory contains the following
+
+          `mkdir path/to/your/.venv`
+    
+          Then,
+
+          `python -m venv path/to/your/.venv`      
+      4. Then check the directory contains the following
          * bin
          * include
          * lib
          * pyvenv.cfg
-      4. Go to the directory by
+      5. Go to the directory by
      
-          `cd path/to/your/dir`
-      5. To activate the virtual environment, type
+          `cd path/to/your/.venv`
+      6. To activate the virtual environment, type
     
           `source bin/activate`
 
